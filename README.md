@@ -32,7 +32,7 @@
 ![video_search]                         
 
 
-[iconimg]:sample/iconimg.jpg
-[img_search]:sample/img_search.gif
-[click_event]:sample/click_event.gif
-[video_search]:sample/video_search.gif
+[iconimg]:sampleshot/iconimg.jpg
+[img_search]:sampleshot/img_search.gif
+[click_event]:sampleshot/click_event.gif
+[video_search]:sampleshot/video_search.gif
