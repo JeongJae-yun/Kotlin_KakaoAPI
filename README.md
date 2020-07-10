@@ -1,4 +1,6 @@
 # Kotlin_KakaoAPI
+![license](https://img.shields.io/badge/license-MIT%20License-blue.svg) 
+[![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
 
 ![iconimg]                         
                          
@@ -22,13 +24,13 @@
 
 * * *
 ## Sample                          
-### ÀÌ¹ÌÁö °Ë»ö                         
+### ì´ë¯¸ì§€ ê²€ìƒ‰                         
 ![img_search]                         
 
-### ÀÌ¹ÌÁö Å¬¸¯ ½Ã, ÃâÃ³·Î ÀÌµ¿                         
+### ì´ë¯¸ì§€ í´ë¦­ ì‹œ, ì¶œì²˜ë¡œ ì´ë™                         
 ![click_event]                         
 
-### ¿µ»ó °Ë»ö                         
+### ì˜ìƒ ê²€ìƒ‰                         
 ![video_search]                         
 
 
